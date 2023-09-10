@@ -1,0 +1,33 @@
+* Blogs                                                              :elfeed:
+** Life                                             :life:
+*** https://indiauncut.substack.com/feed
+*** https://www.growthstore.xyz/feed
+*** https://showandtellnewsletter.substack.com/feed
+*** https://newsletter.theindianotes.com/feed
+*** https://fs.blog/feed/
+*** https://feeds.feedburner.com/collabfund
+*** https://rootsofprogress.org/feed.xml
+*** https://ciechanow.ski/atom.xml
+*** https://www.noahpinion.blog/feed
+*** https://astralcodexten.substack.com/feed
+** Tech :Tech:
+*** https://nadh.in/index.xml
+*** https://api.quantamagazine.org/feed/
+*** https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml
+*** https://karpathy.github.io/feed.xml
+*** https://blog.codinghorror.com/rss/
+*** https://max.levch.in/rss
+** Emacs-life :EMACS:
+*** https://protesilaos.com/master.xml
+*** https://systemcrafters.net/rss/news.xml
+** India :India:Starup:
+*** https://theindianpivot.substack.com/feed
+*** https://shorts.growthx.club/feed
+*** https://tigerfeathers.substack.com/feed
+** Economics :Misc:
+*** https://feeds.feedblitz.com/marginalrevolution
+** Startup :World:
+*** https://lillianli.substack.com/feed  :china:
+** Future :Futurism:
+*** https://digitalnative.substack.com/feed
+*** https://www.robinsloan.com/feed.xml    :literature:

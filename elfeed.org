@@ -10,6 +10,8 @@
 *** https://ciechanow.ski/atom.xml
 *** https://www.noahpinion.blog/feed
 *** https://astralcodexten.substack.com/feed
+*** https://austinkleon.substack.com/feed
+*** https://adamgrant.substack.com/feed
 ** Tech :Tech:
 *** https://nadh.in/index.xml
 *** https://api.quantamagazine.org/feed/
@@ -17,6 +19,8 @@
 *** https://karpathy.github.io/feed.xml
 *** https://blog.codinghorror.com/rss/
 *** https://max.levch.in/rss
+** Product :product:
+*** https://www.lennysnewsletter.com/feed
 ** Emacs-life :EMACS:
 *** https://protesilaos.com/master.xml
 *** https://systemcrafters.net/rss/news.xml

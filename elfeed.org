@@ -12,18 +12,22 @@
 *** https://astralcodexten.substack.com/feed
 *** https://austinkleon.substack.com/feed
 *** https://adamgrant.substack.com/feed
+*** https://www.razibkhan.com/feed
+*** https://lethain.com/feeds.xml
+*** https://sashachapin.substack.com/feed
+*** https://www.henrikkarlsson.xyz/feed
+*** https://www.theplurisociety.com/feed
 ** Tech :Tech:
 *** https://nadh.in/index.xml
 *** https://api.quantamagazine.org/feed/
-*** https://cheapskatesguide.org/cheapskates-guide-rss-feed.xml
 *** https://karpathy.github.io/feed.xml
-*** https://blog.codinghorror.com/rss/
 *** https://max.levch.in/rss
 ** Product :product:
 *** https://www.lennysnewsletter.com/feed
 ** Emacs-life :EMACS:
 *** https://protesilaos.com/master.xml
 *** https://systemcrafters.net/rss/news.xml
+*** https://planet.emacslife.com/atom.xml
 ** India :India:Starup:
 *** https://theindianpivot.substack.com/feed
 *** https://shorts.growthx.club/feed

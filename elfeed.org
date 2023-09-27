@@ -17,6 +17,7 @@
 *** https://sashachapin.substack.com/feed
 *** https://www.henrikkarlsson.xyz/feed
 *** https://www.theplurisociety.com/feed
+*** https://www.bretthall.org/1/feed
 ** Tech :Tech:
 *** https://nadh.in/index.xml
 *** https://api.quantamagazine.org/feed/

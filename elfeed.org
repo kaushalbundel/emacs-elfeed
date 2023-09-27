@@ -1,4 +1,4 @@
-* Blogs                                                              :elfeed:
+* Blogs :elfeed:
 ** Life                                             :life:
 *** https://indiauncut.substack.com/feed
 *** https://www.growthstore.xyz/feed

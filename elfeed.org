@@ -19,6 +19,8 @@
 *** https://www.bretthall.org/1/feed
 *** https://studio.ribbonfarm.com/feed
 *** https://www.ribbonfarm.com/feed/
+*** https://srajagopalan.substack.com/feed/
+*** https://feedpress.me/thetechnium
 ** Tech :Tech:
 *** https://nadh.in/index.xml
 *** https://api.quantamagazine.org/feed/
@@ -48,3 +50,4 @@
 ** Youtube                                 :youtube:
 *** https://www.youtube.com/feeds/videos.xml?channel_id=UC5LueiosDVInA6yXE_38i9Q
 *** https://www.youtube.com/feeds/videos.xml?channel_id=UCuV0yG992ILG-wNBSKTEwhQ
+*** https://www.youtube.com/feeds/videos.xml?channel_id=UC09qASY4ixFS-KXIH6Nw0rg

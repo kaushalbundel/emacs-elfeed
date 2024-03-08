@@ -30,6 +30,7 @@
 *** https://ntietz.com/atom.xml
 ** Product :product:
 *** https://www.lennysnewsletter.com/feed
+*** https://kristenberman.substack.com/feed
 ** Emacs-life :EMACS:
 *** https://protesilaos.com/master.xml
 *** https://systemcrafters.net/rss/news.xml

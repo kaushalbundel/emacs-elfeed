@@ -28,7 +28,6 @@
 *** https://max.levch.in/rss
 *** https://jvns.ca/atom.xml
 *** https://ntietz.com/atom.xml
-**
 ** Product :product:
 *** https://www.lennysnewsletter.com/feed
 *** https://kristenberman.substack.com/feed
@@ -41,6 +40,8 @@
 *** https://theindianpivot.substack.com/feed
 *** https://shorts.growthx.club/feed
 *** https://tigerfeathers.substack.com/feed
+** Science :science:
+*** https://writings.stephenwolfram.com/feed/
 ** Startup :World:
 *** https://lillianli.substack.com/feed  :china:
 ** Future :Futurism:
